@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Show Password",
+  "version": "1.0",
+  "description": "Toggle password visibility",
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Show passwords",
+    "default_icon": "icon.png"
+  }
+}
