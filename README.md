@@ -88,7 +88,7 @@
 1. Скачать репозиторий
 
 ```
-git clone https://github.com/yourusername/show-password-extension
+https://github.com/KODGPT/Show-Password-Extension.git
 ```
 
 2. Открыть страницу расширений Chrome
